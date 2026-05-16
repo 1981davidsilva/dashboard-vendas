@@ -11,7 +11,7 @@ Apresentar indicadores estratégicos de vendas de forma visual e intuitiva, auxi
 
 ## 📌 Indicadores Apresentados
 - Total em vendas
-- Valor de descontos 
+- Valor de descontos
 - Média de descontos
 - Vendas por vendedor
 - Vendas por região
